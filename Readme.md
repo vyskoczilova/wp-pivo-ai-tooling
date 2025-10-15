@@ -10,6 +10,23 @@
 Daniel Mejta, https://www.mejta.net
 Karolína Vyskočilová, https://kybernaut.cz
 
+## Návody, tipy a triky
+
+### Screenshots velkých stránek
+Jak efektivně screenshotovat dlouhé stránky, aby nedošlo k zamrznutí Claude. Strategie zahrnuje kontrolu výšky stránky a podle toho buď full-page screenshot nebo targetovaný viewport screenshot.
+
+Viz [how-to/Screenshots-large-images.md](how-to/Screenshots-large-images.md)
+
+### WordPress a WooCommerce MCP server
+Jak nastavit MCP server pro práci s WordPress a WooCommerce API, včetně konfigurace pro localhost a JWT autentizaci.
+
+Viz [how-to/WordPres-mcp.md](how-to/WordPres-mcp.md)
+
+### Claude Code Hooks
+Jak nastavit notifikace při dokončení úkolu nebo při potřebě inputu pomocí hooks v `settings.json`. Příklad používá `terminal-notifier` pro macOS notifikace.
+
+Viz [how-to/Hooks.md](how-to/Hooks.md)
+
 ## Vlastní slash commandy
 
 ### /create command
