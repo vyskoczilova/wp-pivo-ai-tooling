@@ -55,7 +55,7 @@ Before proceeding, verify the repository state:
 - Analyze both commit messages and file changes to determine bump level:
 
   **Major bump indicators:**
-  - Commit messages containing: `BREAKING CHANGE`, `breaking:`, `major:`, `!` suffix (conventional commits)
+  - Commit messages containing: `BREAKING CHANGE`, `breaking:`, `major:` suffix (conventional commits)
   - Significant architecture changes (e.g., moving core files, renaming major modules)
   - Changes to API contracts, database schema migrations
   - Updates to major dependencies (package.json with major version bumps)
